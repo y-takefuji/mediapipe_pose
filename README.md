@@ -17,7 +17,7 @@ $ pip install msvc-runtime
 Three programs can show landmarks of a human body.
 
 pose landmarks composed of 33 points are as follows:
-<img src='https://github.com/ytakefuji/mediapipe_pose/blob/main/pose_tracking_full_body_landmarks.png' width=772 heigh=438>
+<img src='https://github.com/y-takefuji/mediapipe_pose/blob/main/pose_tracking_full_body_landmarks.png' width=772 heigh=438>
 
 source:https://developers.google.com/static/mediapipe/images/solutions/pose_landmarks_index.png
 
@@ -33,7 +33,7 @@ fposeservo.py is a program working with Arduino firmata.
 The nose coordinate (x,y) is equivalent to pose landmarks[0].
 The horizontal nose x-axis with landmarks[0][0] controls a servo angle.
 
-<img src='https://github.com/ytakefuji/mediapipe_pose/blob/main/nose.gif' width=320 heigh=240>
+<img src='https://github.com/y-takefuji/mediapipe_pose/blob/main/nose.gif' width=320 heigh=240>
 
 # Exercise
 
