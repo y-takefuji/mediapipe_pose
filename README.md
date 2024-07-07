@@ -37,4 +37,4 @@ The horizontal nose x-axis with landmarks[0][0] controls a servo angle.
 
 # Exercise
 
-Let's create a new and exciting Python program.
+1. Nose position can turn LED on or off with firmata library.
